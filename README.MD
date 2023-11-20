@@ -1,7 +1,7 @@
 # Taiwan Accent Mandarin English Code-Switching
 
 ## Environments
-- python version: `3.9.16 (main, Dec  7 2022, 01:11:51)  [GCC 9.4.0]`
+- python version: `3.9.16`
 - espnet version: `espnet 202301`
 - pytorch version: `pytorch 1.13.1+cu117`
 
