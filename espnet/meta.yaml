@@ -1,0 +1,10 @@
+espnet: '202301'
+files:
+  asr_model_file: exp/asr_TL_att_ctc_new/valid.acc.ave_10best.pth
+  lm_file: exp/lm_train_lm_transformer_zh_char/valid.loss.ave_10best.pth
+python: "3.7.16 (default, Dec  7 2022, 01:12:19) \n[GCC 9.4.0]"
+timestamp: 1678442073.344035
+torch: 1.13.1+cu117
+yaml_files:
+  asr_train_config: exp/asr_TL_att_ctc_new/config.yaml
+  lm_train_config: exp/lm_train_lm_transformer_zh_char/config.yaml

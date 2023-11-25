@@ -88,3 +88,6 @@ tools/anaconda
 tools/ice-g2p*
 tools/fairseq*
 tools/featbin*
+env*/
+egs2/seame/asr1/seame
+egs2/seame/asr1/valid
